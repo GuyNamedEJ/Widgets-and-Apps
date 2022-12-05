@@ -1,0 +1,479 @@
+{
+ "zipcode": [
+  {
+   "zipcode": "20607",
+   "City": "Accokeek",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22880"
+  },
+  {
+   "zipcode": "20608",
+   "City": "Aquasco",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22884"
+  },
+  {
+   "zipcode": "20613",
+   "City": "Brandywine",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22902"
+  },
+  {
+   "zipcode": "20623",
+   "City": "Cheltenham",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22916"
+  },
+  {
+   "zipcode": "20703",
+   "City": "Lanham Seabrook",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2590"
+  },
+  {
+   "zipcode": "20703",
+   "City": "Lanham",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22996"
+  },
+  {
+   "zipcode": "20704",
+   "City": "Beltsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22892"
+  },
+  {
+   "zipcode": "20705",
+   "City": "Beltsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22892"
+  },
+  {
+   "zipcode": "20706",
+   "City": "Lanham Seabrook",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2590"
+  },
+  {
+   "zipcode": "20706",
+   "City": "Lanham",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22996"
+  },
+  {
+   "zipcode": "20706",
+   "City": "Glenarden",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2432500"
+  },
+  {
+   "zipcode": "20707",
+   "City": "Laurel",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445900"
+  },
+  {
+   "zipcode": "20708",
+   "City": "Montpelier",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2592"
+  },
+  {
+   "zipcode": "20708",
+   "City": "Laurel",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445900"
+  },
+  {
+   "zipcode": "20709",
+   "City": "Montpelier",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2592"
+  },
+  {
+   "zipcode": "20709",
+   "City": "Laurel",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445900"
+  },
+  {
+   "zipcode": "20710",
+   "City": "Bladensburg",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2407850"
+  },
+  {
+   "zipcode": "20712",
+   "City": "Mount Rainier",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2454275"
+  },
+  {
+   "zipcode": "20715",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20716",
+   "City": "Mitchellville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2594"
+  },
+  {
+   "zipcode": "20716",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20717",
+   "City": "Mitchellville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2594"
+  },
+  {
+   "zipcode": "20717",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20718",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20719",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20720",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20721",
+   "City": "Mitchellville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2594"
+  },
+  {
+   "zipcode": "20721",
+   "City": "Bowie",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2408775"
+  },
+  {
+   "zipcode": "20722",
+   "City": "Brentwood",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2409500"
+  },
+  {
+   "zipcode": "20722",
+   "City": "Colmar Manor",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2418850"
+  },
+  {
+   "zipcode": "20722",
+   "City": "North Brentwood",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2456375"
+  },
+  {
+   "zipcode": "20725",
+   "City": "Laurel",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445900"
+  },
+  {
+   "zipcode": "20726",
+   "City": "Laurel",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445900"
+  },
+  {
+   "zipcode": "20731",
+   "City": "Capitol Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2413000"
+  },
+  {
+   "zipcode": "20735",
+   "City": "Clinton",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22922"
+  },
+  {
+   "zipcode": "20737",
+   "City": "Riverdale",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2466550"
+  },
+  {
+   "zipcode": "20738",
+   "City": "Riverdale",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2466550"
+  },
+  {
+   "zipcode": "20740",
+   "City": "Berwyn Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2406925"
+  },
+  {
+   "zipcode": "20740",
+   "City": "College Park",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2418750"
+  },
+  {
+   "zipcode": "20741",
+   "City": "College Park",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2418750"
+  },
+  {
+   "zipcode": "20743",
+   "City": "Fairmont Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2601"
+  },
+  {
+   "zipcode": "20743",
+   "City": "Capitol Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2413000"
+  },
+  {
+   "zipcode": "20743",
+   "City": "Seat Pleasant",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2470850"
+  },
+  {
+   "zipcode": "20744",
+   "City": "Fort Washington",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22960"
+  },
+  {
+   "zipcode": "20745",
+   "City": "Oxon Hill",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z23033"
+  },
+  {
+   "zipcode": "20745",
+   "City": "Forest Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2428725"
+  },
+  {
+   "zipcode": "20746",
+   "City": "Camp Springs",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2602"
+  },
+  {
+   "zipcode": "20746",
+   "City": "Hillcrest Hgts",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2603"
+  },
+  {
+   "zipcode": "20746",
+   "City": "Suitland",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z23077"
+  },
+  {
+   "zipcode": "20747",
+   "City": "Forestville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2604"
+  },
+  {
+   "zipcode": "20747",
+   "City": "District Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2423025"
+  },
+  {
+   "zipcode": "20748",
+   "City": "Camp Springs",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2602"
+  },
+  {
+   "zipcode": "20748",
+   "City": "Hllcrst Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2606"
+  },
+  {
+   "zipcode": "20748",
+   "City": "Marlow Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2607"
+  },
+  {
+   "zipcode": "20748",
+   "City": "Temple Hills",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z23082"
+  },
+  {
+   "zipcode": "20749",
+   "City": "Fort Washington",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22960"
+  },
+  {
+   "zipcode": "20750",
+   "City": "Oxon Hill",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z23033"
+  },
+  {
+   "zipcode": "20752",
+   "City": "Suitland",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z23077"
+  },
+  {
+   "zipcode": "20753",
+   "City": "District Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2423025"
+  },
+  {
+   "zipcode": "20757",
+   "City": "Temple Hills",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z23082"
+  },
+  {
+   "zipcode": "20762",
+   "City": "Andrews Air Force Base",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2609"
+  },
+  {
+   "zipcode": "20762",
+   "City": "Andrews Afb",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22882"
+  },
+  {
+   "zipcode": "20768",
+   "City": "Greenbelt",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2434775"
+  },
+  {
+   "zipcode": "20769",
+   "City": "Glenn Dale",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033z22971"
+  },
+  {
+   "zipcode": "20770",
+   "City": "Greenbelt",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2434775"
+  },
+  {
+   "zipcode": "20772",
+   "City": "Upper Marlboro",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2479875"
+  },
+  {
+   "zipcode": "20773",
+   "City": "Upper Marlboro",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2479875"
+  },
+  {
+   "zipcode": "20774",
+   "City": "Kettering",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2611"
+  },
+  {
+   "zipcode": "20774",
+   "City": "Largo",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2612"
+  },
+  {
+   "zipcode": "20774",
+   "City": "Springdale",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2613"
+  },
+  {
+   "zipcode": "20774",
+   "City": "Upr Marlboro",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2614"
+  },
+  {
+   "zipcode": "20774",
+   "City": "Glenarden",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2432500"
+  },
+  {
+   "zipcode": "20774",
+   "City": "Upper Marlboro",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2479875"
+  },
+  {
+   "zipcode": "20775",
+   "City": "Upper Marlboro",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2479875"
+  },
+  {
+   "zipcode": "20781",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20782",
+   "City": "Chillum",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2615"
+  },
+  {
+   "zipcode": "20782",
+   "City": "Prince Georges Metro Ctr",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2616"
+  },
+  {
+   "zipcode": "20782",
+   "City": "West Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2617"
+  },
+  {
+   "zipcode": "20782",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20782",
+   "City": "University Park",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2479675"
+  },
+  {
+   "zipcode": "20783",
+   "City": "Adelphi",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2618"
+  },
+  {
+   "zipcode": "20783",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20784",
+   "City": "Cheverly",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2416550"
+  },
+  {
+   "zipcode": "20784",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20784",
+   "City": "Landover Hills",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445400"
+  },
+  {
+   "zipcode": "20784",
+   "City": "New Carrollton",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2455400"
+  },
+  {
+   "zipcode": "20785",
+   "City": "North Englewood",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2619"
+  },
+  {
+   "zipcode": "20785",
+   "City": "Cheverly",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2416550"
+  },
+  {
+   "zipcode": "20785",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20785",
+   "City": "Landover Hills",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2445400"
+  },
+  {
+   "zipcode": "20787",
+   "City": "Langley Park",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=24033n2620"
+  },
+  {
+   "zipcode": "20787",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20788",
+   "City": "Hyattsville",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2441250"
+  },
+  {
+   "zipcode": "20791",
+   "City": "Capitol Heights",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2413000"
+  },
+  {
+   "zipcode": "20792",
+   "City": "Upper Marlboro",
+   "City_url": "https://www.ciclt.net/sn/clt/capitolimpact/gw_citydet.aspx?state=md&stfips=24&stname=Maryland&citykey=2479875"
+  }
+ ]
+}

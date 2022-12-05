@@ -1,0 +1,14 @@
+.res{
+    background-color:seagreen;
+    color:white;
+}
+
+.non-res{
+    background-color: darkred;
+    color:white;
+    
+}
+
+#text-display{
+    color:white;
+}
